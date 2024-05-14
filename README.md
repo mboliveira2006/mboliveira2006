@@ -1,9 +1,9 @@
 <h1 align="center">Opa 👋, sou Marcelo</h1>
-<h3 align="center">Estudando Ciência de Dados | Desenvolvedor Python</h3>
+<h3 align="center">Sempre Estudando | Desenvolvedor Python</h3>
 
-- 🔭 Meu projeto atual é um estudo da biblioteca [OpenCV](https://github.com/mboliveira2006/estudoOpenCV)
+- 🔭 Meu projeto atual é um estudo da técinca RAG para extração de dados de documentos.
 
-- 🌱 No momento estou estudando **Análise de dados e Machine Learning**
+- 🌱 O próxiomo estudo será sobre ***AI Agents***
 
 - 📫 Se precisar pode me mandar um email **mb.oliveira2006@gmail.com**
 
