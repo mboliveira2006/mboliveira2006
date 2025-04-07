@@ -1,5 +1,5 @@
 <h1 align="center">Opa 👋, sou Marcelo</h1>
-<h3 align="center">Sempre Estudando | Desenvolvedor Python</h3>
+<h3 align="center">Sempre Estudando | Desenvolvedor</h3>
 
 - 🔭 Meu projeto atual é um estudo da técinca RAG para extração de dados de documentos.
 
